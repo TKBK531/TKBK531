@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharindu Kasthurisinghe</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkbk531&label=Profile%20views&color=0e75b6&style=flat" alt="tkbk531" /> </p>
+
 
 - 🌱 I’m currently learning **Computer Science in University of Peradeniya**
 - 📫 How to reach me **tharindukasthurisinghe@gmail.com**
