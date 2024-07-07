@@ -7,7 +7,7 @@
 - 📫 How to reach me **tharindukasthurisinghe@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Programming Languages:</h4>
+
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
@@ -25,7 +25,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 </p>
 
-<h4 align="left">Frontend Development:</h4>
+
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
@@ -39,7 +39,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
 </p>
 
-<h4 align="left">Backend Development:</h4>
+
 <p align="left">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
@@ -47,7 +47,7 @@
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
 </p>
 
-<h4 align="left">Database:</h4>
+
 <p align="left">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
@@ -57,7 +57,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
 </p>
 
-<h4 align="left">DevOps:</h4>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
@@ -65,7 +64,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 </p>
 
-<h4 align="left">Software:</h4>
 <p align="left">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
@@ -73,7 +71,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
 </p>
 
-<h4 align="left">Game Development:</h4>
 <p align="left">
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
