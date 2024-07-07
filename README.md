@@ -1,5 +1,9 @@
-# 💫 About Me:
-I'm currently studying Computer Science at the University of Peradeniya
+<h1 align="center">Hi 👋, I'm Tharindu Kasthurisinghe</h1>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+
+- 🌱 I’m currently learning **Computer Science in University of Peradeniya**
+- 📫 How to reach me **tharindukasthurisinghe@gmail.com**
+
 
 
 ## 🌐 Socials:
